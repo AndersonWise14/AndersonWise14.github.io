@@ -1,27 +1,27 @@
 ---
-title: "YOUR NAME"
-about:
-  template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profile.png
+title: "Anderson Wise"
+about: 
+  template: jolla
+  image: IMG_0110.jpeg
   image-width: 15em
-  image-shape: round # rectangle  round  rounded
+  image-shape: round 
   
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/anderson-wise-1b3331255/
     - icon: instagram
       text: Instagram
-      href: https://instagram.com
+      href: https://www.instagram.com/?next=%2F
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/AndersonWise14/AndersonWise14.github.io
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: https://AndersonWise.github.io/Anderson Resume.docx.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:amw39@geneseo.edu
 
 ---
 
@@ -30,12 +30,12 @@ Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data
 
 ## Education
 
-State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+Watertown Highschool
+
+Suny Geneseo Accounting Major
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Warehouser Lumber at Renzi Foodservice
 
 
