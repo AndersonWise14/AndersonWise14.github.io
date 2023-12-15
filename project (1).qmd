@@ -4,8 +4,8 @@ subtitle: "College Basketball Statistics"
 author: 
   - Samuel Lee
   - Mike Conklin
+  - Matthew Brown
   - Anderson Wise
-  - Mathew Brown
   - Neil Downey
   - Liam Keyes
 
